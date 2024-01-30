@@ -1,0 +1,119 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.barlow-condensed-thin {
+    font-family: "Barlow Condensed", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+  
+  .barlow-condensed-thin-italic {
+    font-family: "Barlow Condensed", sans-serif;
+    font-weight: 100;
+    font-style: italic;
+  }
+  
+  .barlow-condensed-extralight {
+    font-family: "Barlow Condensed", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+  }
+  
+  .barlow-condensed-extralight-italic {
+    font-family: "Barlow Condensed", sans-serif;
+    font-weight: 200;
+    font-style: italic;
+  }
+  
+  .barlow-condensed-light {
+    font-family: "Barlow Condensed", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .barlow-condensed-light-italic {
+    font-family: "Barlow Condensed", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+  
+  .barlow-condensed-regular {
+    font-family: "Barlow Condensed", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .barlow-condensed-regular-italic {
+    font-family: "Barlow Condensed", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+
+  .barlow-semibold {
+    font-family: "Barlow", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+  .barlow-medium-italic {
+    font-family: "Barlow", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+  }
+  
+  .barlow-medium {
+    font-family: "Barlow", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .barlow-regular-italic {
+    font-family: "Barlow", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .barlow-regular {
+    font-family: "Barlow", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .barlow-light-italic {
+    font-family: "Barlow", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+  
+  .barlow-light {
+    font-family: "Barlow", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .barlow-extralight-italic {
+    font-family: "Barlow", sans-serif;
+    font-weight: 200;
+    font-style: italic;
+  }
+  
+  .barlow-extralight {
+    font-family: "Barlow", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+  }
+
+  .bellefair-regular {
+    font-family: "Bellefair", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .barlow-condensed-medium {
+    font-family: "Barlow Condensed", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }

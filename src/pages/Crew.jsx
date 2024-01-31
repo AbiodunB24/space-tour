@@ -1,4 +1,3 @@
-import image from "../assets/crew/image-douglas-hurley.png"
 import bg from "../assets/crew/background-crew-desktop.jpg"
 import data from "../assets/data.json"
 import { useState } from "react"

@@ -3,7 +3,7 @@ import bg from "../assets/destination/background-destination-desktop.jpg";
 import data from "../assets/data.json";
 
 const Destination = () => {
-  const [destination, setDestination] = useState(data.destinations);
+  const [destination] = useState(data.destinations);
   const [index, setIndex] = useState(0);
   const [isActive, setIsActive] = useState(0);
 

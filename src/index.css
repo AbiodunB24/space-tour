@@ -3,6 +3,22 @@
 @tailwind utilities;
 
 
+.bgdesktop{
+    background-image: url("./assets/destination/background-destination-desktop.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bgmobile{
+    background-image: url("./assets/destination/background-destination-mobile.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bgtablet{
+    background-image: url("./assets/destination/background-destination-tablet.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 
 .barlow-condensed-thin {
     font-family: "Barlow Condensed", sans-serif;
@@ -121,4 +137,3 @@
   .number{
     border-color: gray;
   }
-  
